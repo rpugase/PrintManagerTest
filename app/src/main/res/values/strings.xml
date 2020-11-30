@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrinterManagerTest</string>
+    <string name="print">Print</string>
+    <string name="text">Text</string>
+</resources>
